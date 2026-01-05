@@ -1,11 +1,14 @@
 # Selam! Ben Talha Arpağ 👋
 
 <p align="left">
-<img src="https://img.shields.io/badge/Status-Associate%20Test%20Automation%20Specialist-blue?style=flat-square" alt="Status">
-<img src="https://img.shields.io/badge/Location-Pendik%2C%20İstanbul-red?style=flat-square" alt="Location">
+ <img src="https://img.shields.io/badge/Status-Associate%20Test%20Automation%20Specialist-blue?style=flat-square&logo=robotframework&logoColor=white" alt="Status">
+ <img src="https://img.shields.io/badge/Location-Pendik%2C%20İstanbul-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+ <img src="https://img.shields.io/badge/Focus-AI%20Powered%20Testing-success?style=flat-square&logo=openai&logoColor=white" alt="Focus">
 </p>
 
-Yazılım test süreçlerine duyduğum tutku ve **Test Otomasyonu** konusundaki teknik yetkinliklerimle, karmaşık projelerde etkin ve sürdürülebilir çözümler sunmaya odaklanıyorum. Analitik düşünme yapım ve sürekli gelişim vizyonumla yazılım kalitesini en üst seviyeye taşımayı hedefliyorum.
+Yazılım test süreçlerinde ve **Test Otomasyonu** alanında deneyim sahibiyim. Özellikle **Provision** bünyesinde manuel test senaryolarını otomasyona dönüştürme ve **Yapay Zeka (AI)** destekli araçlarla test süreçlerini hızlandırma üzerine çalışıyorum. 
+
+Analitik düşünme yapım ve modern vizyonumla, klasik otomasyonun ötesine geçerek **"Akıllı Test Otomasyonu"** süreçleri kurguluyorum.
 
 ---
 
@@ -13,41 +16,73 @@ Yazılım test süreçlerine duyduğum tutku ve **Test Otomasyonu** konusundaki 
 
 ### Programming & Scripting
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
+  </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="50" height="50" alt="C++" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="50" height="50" alt="C++" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50" height="50" alt="SQL" />
+  </a>
 </p>
 
-### Test Automation & Tools
+### Test Automation & AI Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="50" height="50" alt="Selenium" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="50" height="50" alt="Postman" />
-  &nbsp;
   <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" width="50" height="50" alt="Pytest" />
+  &nbsp;
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="50" height="50" alt="Selenium" />
+  </a>
+  &nbsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="50" height="50" alt="Postman" />
+  </a>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="OpenAI / AI Agents" />
 </p>
 
-### Reporting & Database
+### Reporting, DevOps & Tools
 <p align="left">
   <img src="https://allurereport.org/svg/logo-report-sign.svg" width="50" height="50" alt="Allure" style="filter: invert(1);" />
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50" height="50" alt="VS Code" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Neler Yapıyorum?
 
-* 🧪 **UI, API ve Veritabanı** seviyelerinde kapsamlı test senaryoları geliştiriyorum.
-* 📊 **Pytest** ile yazdığım otomasyonların sonuçlarını **Allure** üzerinden detaylıca raporluyorum.
+* 🤖 **AI Destekli Otomasyon:** **OpenAI API** ve **Browser Use (AI Agent)** kütüphanelerini kullanarak dinamik senaryo üretimi ve akıllı test süreçleri geliştiriyorum.
+* 🔄 **Otomasyon Dönüşümü:** **Provision** şirketinde manuel test senaryolarını analiz ederek **Python & Pytest** ile otomatize ediyorum.
+* 🧪 **E2E Testler:** UI (Arayüz), API ve Veritabanı katmanlarında uçtan uca testler yazıyorum.
+* 📊 **Raporlama:** Test sonuçlarını **Allure Framework** entegrasyonu ile detaylıca raporluyor ve analiz ediyorum.
 
 ---
 
-### 🎓 Eğitim ve Gelişim
+### 💼 Deneyim
+
+**Provision** | *Test Otomasyon Uzman Yardımcısı* (Şubat 2025 - Günümüz)
+* Manuel testlerin otomasyona geçiş süreçlerinin yönetimi.
+* Yapay zeka destekli senaryo oluşturma çalışmaları.
+* Hata (Bug) tespiti ve raporlama süreçleri.
+
+---
+
+### 🎓 Eğitim ve Sertifikalar
 
 * 🎓 **Bilgisayar Programcılığı** - Sakarya Uygulamalı Bilimler Üniversitesi
 * 📜 **BTK Akademi Sertifikaları:**
     * Yazılım Test Otomasyonu
     * API ve API Testi
-    * Yazılım Testine Giriş
 
 ---
 
@@ -62,4 +97,4 @@ Yazılım test süreçlerine duyduğum tutku ve **Test Otomasyonu** konusundaki 
 </a>
 
 ---
-*“Kaliteli yazılım bir tesadüf değil, disiplinli bir test sürecinin sonucudur.”*
+*“Kaliteli yazılım bir tesadüf değil; disiplinli bir test sürecinin ve yenilikçi teknolojilerin sonucudur.”*
