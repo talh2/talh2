@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/Focus-AI%20Powered%20Testing-success?style=flat-square&logo=openai&logoColor=white" alt="Focus">
 </p>
 
-Yazılım test süreçlerinde ve **Test Otomasyonu** alanında deneyim sahibiyim. Özellikle **Provision** bünyesinde manuel test senaryolarını otomasyona dönüştürme ve **Yapay Zeka (AI)** destekli araçlarla test süreçlerini hızlandırma üzerine çalışıyorum. 
+Manuel test senaryolarını otomasyona dönüştürme ve **Yapay Zeka (AI)** destekli araçlarla test süreçlerini hızlandırma üzerine çalışıyorum. 
 
 Analitik düşünme yapım ve modern vizyonumla, klasik otomasyonun ötesine geçerek **"Akıllı Test Otomasyonu"** süreçleri kurguluyorum.
 
@@ -62,27 +62,9 @@ Analitik düşünme yapım ve modern vizyonumla, klasik otomasyonun ötesine ge�
 ### 🚀 Neler Yapıyorum?
 
 * 🤖 **AI Destekli Otomasyon:** **OpenAI API** ve **Browser Use (AI Agent)** kütüphanelerini kullanarak dinamik senaryo üretimi ve akıllı test süreçleri geliştiriyorum.
-* 🔄 **Otomasyon Dönüşümü:** **Provision** şirketinde manuel test senaryolarını analiz ederek **Python & Pytest** ile otomatize ediyorum.
+* 🔄 **Otomasyon Dönüşümü:** Manuel test senaryolarını analiz ederek **Python & Pytest** ile otomatize ediyorum.
 * 🧪 **E2E Testler:** UI (Arayüz), API ve Veritabanı katmanlarında uçtan uca testler yazıyorum.
 * 📊 **Raporlama:** Test sonuçlarını **Allure Framework** entegrasyonu ile detaylıca raporluyor ve analiz ediyorum.
-
----
-
-### 💼 Deneyim
-
-**Provision** | *Test Otomasyon Uzman Yardımcısı* (Şubat 2025 - Günümüz)
-* Manuel testlerin otomasyona geçiş süreçlerinin yönetimi.
-* Yapay zeka destekli senaryo oluşturma çalışmaları.
-* Hata (Bug) tespiti ve raporlama süreçleri.
-
----
-
-### 🎓 Eğitim ve Sertifikalar
-
-* 🎓 **Bilgisayar Programcılığı** - Sakarya Uygulamalı Bilimler Üniversitesi
-* 📜 **BTK Akademi Sertifikaları:**
-    * Yazılım Test Otomasyonu
-    * API ve API Testi
 
 ---
 
